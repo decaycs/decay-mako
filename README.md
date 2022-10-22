@@ -1,16 +1,16 @@
 # decay-mako
 This is a port of [Decay Colorscheme](https://github.com/decaycs) for Mako :>
 
-* Light Decay
+# Light Decay
 ![Light Decacy](./misc/light-decay.png)
 
-* Decay
+# Decay
 ![Decay](./misc/decay.png)
 
-* Dark-decay
+# Dark-decay
 ![Dark-decay](./misc/dark-decay.png)
 
-* Decayce
+# Decayce
 ![Decayce](./misc/decayce.png)
 
 # Installation:
