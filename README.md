@@ -1,19 +1,24 @@
-# decay-mako
-This is a port of [Decay Colorscheme](https://github.com/decaycs) for Mako :>
+# Decay For Mako!
 
-# Light Decay
-![Light Decacy](./misc/light-decay.png)
+[Decay](https://github.com/decaycs) is going to theme `Mako`!
 
-# Decay
-![Decay](./misc/decay.png)
+![banner](./.assets/banner.png)
 
-# Dark-decay
-![Dark-decay](./misc/dark-decay.png)
+# Installation
 
-# Decayce
-![Decayce](./misc/decayce.png)
+In order to install a version of this port to mako, just see the next commands:
 
-# Installation:
-In order to install one of the ports you have to put the config file in `.config/mako`
+```sh
+git clone --depth=1 https://github.com/decaycs/decay-mako ~/ # clone port
+cd ~/decay-mako
+mkdir -p ~/.config/mako
+# replace <theme> with one of: dark-decay, decay, decayce or light-decay
+cp -r ./configs/<theme>/config ~/.config/mako
+```
 
+# Thanks to
+
+- [AloneER0](https://github.com/AloneER0)
+
+# Enjoy
 That's all. Enjoy!
