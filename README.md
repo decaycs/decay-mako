@@ -1,2 +1,6 @@
 # decay-mako
-Decay port for Mako!
+This is a port of [Decay Colorscheme](https://github.com/decaycs) for Mako :>
+
+![demonstration](./misc/demonstration.png)
+
+Installation:
