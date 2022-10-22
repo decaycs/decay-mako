@@ -1,6 +1,6 @@
 # Decay For Mako!
 
-[Decay](https://github.com/decaycs) is going to theme `Mako`!
+[Decay](https://github.com/decaycs) is going to start theming `Mako`!
 
 ![banner](./.assets/banner.png)
 
